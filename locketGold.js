@@ -34,11 +34,9 @@
     store: "app_store",
   };
 
-  const PRODUCT_ID = "locket_199_1m";
   const entitlement = {
     grace_period_expires_date: null,
     purchase_date: "2004-07-06T00:00:00Z",
-    product_identifier: PRODUCT_ID,
     expires_date: "2104-07-06T00:00:00Z",
   };
 
